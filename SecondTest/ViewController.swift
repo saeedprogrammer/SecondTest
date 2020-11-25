@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         let fVar = "saeed"
        let newvar = "saeeeed"
         let maseter = "I am in master"
+        let thirdone = ""
     }
 
 
