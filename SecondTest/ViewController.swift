@@ -12,9 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-        print("saeeed")
-        let dd = "sssss"
+        let fVar = "saeed"
     }
 
 
